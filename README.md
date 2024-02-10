@@ -1,2 +1,2 @@
 # test_repo
-This includes a javascript file.
+This includes a javascript notebook.
